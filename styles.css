@@ -4,12 +4,20 @@
 }
 
 body{
+    font-family: system-ui, -apple-system, 
+    BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, C
+    antarell, 
+    'Open Sans', 'Helvetica Neue', 
+    sans-serif;
     align-items: center;
     justify-content: center;
     display: flex;
     flex-direction: column;
     height: 100vh;
     text-align: center;
+    background-color: #282c34;
+    color: white;
 }
 
 #talk{
