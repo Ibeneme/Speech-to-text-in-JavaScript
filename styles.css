@@ -16,10 +16,11 @@ body{
 }
 
 #talk{
-    width: 12em;
-    height: 12em;
-    border-radius: 50%;
+    width: 10em;
+    height: 3em;
+    border-radius: 5%;
     border: none;
+    font-size: 1.4em;
     background-color: antiquewhite;
 }
 
