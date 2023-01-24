@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    text-align: center;
+}
+
+#talk{
+    width: 5.5em;
+    height: 5.5em;
+    border-radius: 50%;
+    border: none;
+    background-color: antiquewhite;
+}
+
+div {
+   
+    height: 0.1em;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: black;
+   
+}
